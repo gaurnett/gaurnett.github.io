@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bad Design
 ---
 ## A Bad Design!
