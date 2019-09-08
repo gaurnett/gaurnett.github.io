@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Good Design
 ---
-## A Good Design!!
+## A Good Design!
 
 ![Williams College Homepage]({{site.baseurl}}/img/good-design.png)
 
