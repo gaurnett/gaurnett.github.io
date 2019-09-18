@@ -5,6 +5,8 @@ title: Project Proposal
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RtQ1PPZ"><a href="//imgur.com/a/RtQ1PPZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ### Problem and Motivation:
 
 When I visited Yosemite National Park in California over the summer, I was overly excited to go on all the famous hikes around the park to see the beautiful views I have seen on TV and Wallpapers of Computer Screens. Upon arrival, I started one of the shorter hikes (4 miles) but my friends and I had to depend on the trails itself and signs that showed the directions of where to go. Most times these signs were placed within a 0.5 - 1 mile radius between the previous one so we found ourselves walking a pretty far distance before coming across one. One of the main problems with hikes like these is that people oftentimes get lost trying to complete them or having to ask strangers for directions. Coupled with this, problems such as information finding and poor designs ruin the experience of hikers globally and is a problem that I am motivated to solve and study this semester.
