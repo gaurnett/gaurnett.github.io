@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Project Proposal
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
-
 
 ### Problem and Motivation:
 
