@@ -33,7 +33,7 @@ I plan on creating a mobile application that allows individuals to learn more ab
 
 ### Similar Works:
 
-Apps such as MapMyHike and Alltrails are examples of current apps that have hiking features. These apps provide great features that that I plan to replicate and improve upon in terms of design and acuuracy as well as adding new features that these apps do not provide. 
+Apps such as MapMyHike and Alltrails are examples of current apps that have hiking features. These apps provide great features that I plan to replicate and improve upon in terms of design and accuracy as well as adding new features that these apps do not provide. 
 
 ### References:
 
