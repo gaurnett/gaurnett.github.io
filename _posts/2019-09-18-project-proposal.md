@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Project Proposal
-image: 'https://imgur.com/8cBMyBJ'
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
 
