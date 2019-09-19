@@ -10,7 +10,7 @@ title: Project Proposal
 
 ### Problem and Motivation:
 
-When I visited Yosemite National Park in California over the summer, I was overly excited to go on all the famous hikes around the park to see the beautiful views I have seen on TV and Wallpapers of Computer Screens. Upon arrival, I started one of the shorter hikes (4 miles) but my friends and I had to depend on the trails itself and signs that showed the directions of where to go. Most times these signs were placed within a 0.5 - 1 mile radius between the previous one so we found ourselves walking a pretty far distance before coming across one. One of the main problems with hikes like these is that people oftentimes get lost trying to complete them or having to ask strangers for directions. Coupled with this, problems such as information finding and poor designs ruin the experience of hikers globally and is a problem that I am motivated to solve and study this semester.
+When I visited Yosemite National Park in California over the summer, I was overly excited to go on all the famous hikes around the park to see the beautiful views I have seen on TV and Wallpapers of Computer Screens. Upon arrival, I started one of the shorter hikes (4 miles) but my friends and I had to depend on the trails itself and signs that showed the directions of where to go. Most times these signs were placed within a 0.5 - 1 mile radius between the previous one so we found ourselves walking a pretty far distance before coming across one. One of the main problems with hikes like these is that people oftentimes get lost trying to complete them (16% according to Tree Hugger) or having to ask strangers for directions. Coupled with this, problems such as information finding and poor designs ruin the experience of hikers globally and is a problem that I am motivated to solve and study this semester.
 
 
 ![proj proposal image.jpg]({{site.baseurl}}/img/proj proposal image.jpg)
@@ -32,5 +32,7 @@ I plan on creating a mobile application that allows individuals to learn more ab
 **6. Work out!:** We all love a good workout and this is one of the things that I believe current apps do a pretty good job with. I plan to bring this feature into our app and improve it in any way we can.
 
 ### References:
+
+How many people get lost in the woods?: [https://www.treehugger.com/travel/how-people-get-lost-woods-what-do-if-it-happens-you.html]()
 
 Image of current hiking app: [https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html](https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html)
