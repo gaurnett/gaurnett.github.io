@@ -6,6 +6,8 @@ image: 'https://imgur.com/8cBMyBJ'
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
 
+![]({{site.baseurl}}/https://i.ibb.co/25j3rqW/proj-proposal-header.jpg)
+
 ![proj proposal header.jpg]({{site.baseurl}}/img/proj proposal header.jpg)
 
 
@@ -34,4 +36,4 @@ I plan on creating a mobile application that allows individuals to learn more ab
 
 ### References:
 
-Image of current hiking app: https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html
+Image of current hiking app: [https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html](https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html)
