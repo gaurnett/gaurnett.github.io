@@ -10,12 +10,12 @@ title: Project Proposal
 
 ### Problem and Motivation:
 
-When I visited Yosemite National Park in California over the summer, I was overly excited to go on all the famous hikes around the park to see the beautiful views I have seen on TV and Wallpapers of Computer Screens. Upon arrival, I started one of the shorter hikes (4 miles) but my friends and I had to depend on the trails itself and signs that showed the directions of where to go. Most times these signs were placed within a 0.5 - 1 mile radius between the previous one so we found ourselves walking a pretty far distance before coming across one. One of the main problems with hikes like these is that people oftentimes get lost trying to complete them (16% according to Tree Hugger) or having to ask strangers for directions. Coupled with this, problems such as bad information regarding these hikes, activities and safety precautions ruin the experience of hikers globally and is a problem that I am motivated to solve and study this semester.
+When I visited Yosemite National Park in California over the summer, I was overly excited to go on all the famous hikes around the park to see the beautiful views I have seen on TV. Upon arrival, I started one of the shorter hikes (4 miles) but my friends and I had to depend on the trails itself and signs that showed the directions of where to go. Most times these signs were placed within a 0.5 - 1 mile radius between the previous one so we found ourselves walking a pretty far distance before coming across one. One of the main problems with hikes like these is that hikers oftentimes get lost trying to complete them (16%, according to Tree Hugger) or having to ask strangers for directions. Coupled with this, problems such as bad information regarding these hikes, activities and safety precautions ruin the experience of hikers globally and is a problem that I am motivated to solve and study this semester.
 
 
 ![proj proposal image.jpg]({{site.baseurl}}/img/proj proposal image.jpg)
 
-### The Product:
+### The Product & Idea:
 
 I plan on creating a mobile application that allows individuals to learn more about the hikes, tours and camping trips that they will go on in order to improve their experiences away from home and out in the wild. Here are a few scenarios where I plan to bring a resolution to or improve what is currently available:
 
@@ -25,11 +25,15 @@ I plan on creating a mobile application that allows individuals to learn more ab
 
 **3. Adventurous Map:** I would like to add a feature that automatically suggest hikes that users can go on that are nearby. This will allow users to not have to search for trails based on what they know or heard of but give them detailed suggestions based on popular trails in their location.
 
-**4. Safety:** Provide safety tips about the environments you will be in.
+**4. Safety:** Provide safety tips about the environments you will be in. Current safety methods are great but are sometimes not properly informed. I will ensure that through my app, this information will be shown to customers globally.
 
 **5. Downloadable Videos:** These videos will accompany detailed step by step guides on how to do certain camping activities and setups such as lighting a campfire or setting up a tent. We will also include activities that hikers and campers can do as a group while they are out in the wild. 
 
 **6. Work out!:** We all love a good workout and this is one of the things that I believe current apps do a pretty good job with. I plan to bring this feature into our app and improve it in any way we can.
+
+### Similar Works:
+
+Apps such as MapMyHike and Alltrails are examples of current apps that have hiking features. These apps provide great features that that I plan to replicate and improve upon in terms of design and acuuracy as well as adding new features that these apps do not provide. 
 
 ### References:
 
