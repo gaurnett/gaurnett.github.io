@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Project Proposal
+image: 'https://imgur.com/8cBMyBJ'
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
 
@@ -34,4 +35,3 @@ I plan on creating a mobile application that allows individuals to learn more ab
 ### References:
 
 Image of current hiking app: https://www.tomsguide.com/us/pictures-story/746-best-hiking-apps.html
-
