@@ -5,8 +5,6 @@ title: Project Proposal
 ---
 ## H.Y.K.E: Heighten Your Knowledge of Environments
 
-![]({{site.baseurl}}/https://i.ibb.co/25j3rqW/proj-proposal-header.jpg)
-
 ![proj proposal header.jpg]({{site.baseurl}}/img/proj proposal header.jpg)
 
 
