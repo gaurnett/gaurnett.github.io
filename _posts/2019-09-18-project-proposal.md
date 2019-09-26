@@ -35,6 +35,9 @@ I plan on creating a mobile application that allows individuals to learn more ab
 
 Apps such as MapMyHike and Alltrails are examples of current apps that have hiking features. These apps provide great features that I plan to replicate and improve upon in terms of design and accuracy as well as adding new features that these apps do not provide. 
 
+### Team Project:
+Learning In Nature through hikAR: [https://hci-sys.github.io/LearningInNature/]()
+
 ### References:
 
 How many people get lost in the woods?: [https://www.treehugger.com/travel/how-people-get-lost-woods-what-do-if-it-happens-you.html]()
