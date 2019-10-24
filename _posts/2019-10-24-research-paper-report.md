@@ -17,6 +17,10 @@ Reading this article has given me more insight into the project that I am workin
 
 Lastly, I believe that we have designed something that has improved upon what this paper discusses. The article speaks a lot about the need for clearly marked navigation trails and this is one of the key designs that we have come up with to solve this problem. Another aspect of hiking that is prevalent is that of enjoying nature and exploring the wild. Our identification design is one that directly improves on this discussion. This is because this design takes exploring nature to a new level with key features such as plant/tree/flower identification, knowing what natural elements are edible or not as well as knowing general information about animals and things you see while exploring. 
 
+![proj proposal header.jpg]({{site.baseurl}}/img/proj proposal header.jpg)
+
+### Bibliography
+
 https://www.researchgate.net/publication/281619759_Hiking_as_Mental_and_Physical_Experience
 
 
