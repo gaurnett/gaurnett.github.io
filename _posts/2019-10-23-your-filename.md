@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Research Paper Report
 ---
 ## A New Post
 
