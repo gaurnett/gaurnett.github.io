@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: My Hiking Experience as a hikAR Designer
 ---
 
