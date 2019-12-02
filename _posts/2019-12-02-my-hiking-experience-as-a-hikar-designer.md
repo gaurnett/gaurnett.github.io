@@ -61,7 +61,8 @@ When creating an application or product, you must ensure that your users are saf
 
 Overall, this project was a very enjoyable one for me. I am very happy that I got the opportunity to take part in this class and project. In future cases, I will use the lessons learnt over this semester to help impact the projects I engage myself in. The whole design process not only taught me new things but also improved the knowledge that I knew before. I enjoyed everything I did in each design stage regardless of if it was tedious or not. The participants and prospective users that I interacted with were very corporative and I had a great time telling them about the project and working with them to improve it. The class discussions and articles that I read impacted the project significantly and I am grateful that I had access to those materials to help me along the way. Lastly, meeting with the team every week was something I looked forward to and I was lucky to have a team like this one. I hope the same happens with the teams I have in the future because it would make my design life smoother and more enjoyable.
  
-Bibliography
+## Bibliography
+
 Huff & Brown. 2004. "A Case Study of the Therac-25," in Using History to Teach Computer Science and Related Disciplines
 https://hci-hikar.firebaseapp.com/
 https://www.washingtonpost.com/news/dr-gridlock/wp/2018/03/19/uber-halts-autonomous-vehicle-testing-after-a-pedestrian-is-struck/
