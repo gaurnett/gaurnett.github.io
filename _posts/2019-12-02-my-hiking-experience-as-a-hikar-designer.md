@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+bigimg: {{site.baseurl}}/img/yosemite.jpg
 title: My Hiking Experience as a hikAR Designer
 ---
 
